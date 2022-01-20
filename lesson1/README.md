@@ -2,7 +2,7 @@
  * @Author: zhangniannian
  * @Date: 2022-01-19 20:41:16
  * @LastEditors: zhangniannian
- * @LastEditTime: 2022-01-19 20:42:37
+ * @LastEditTime: 2022-01-20 20:29:55
  * @Description: 请填写简介
 -->
 ## 课后练习1.1  
@@ -16,6 +16,9 @@
 用 for 循环遍历该数组并修改为
 ["I","am","smart","and","strong"]
 ```
+
+[答案](./range)  
+
 
 ## 课后练习1.2  
 
